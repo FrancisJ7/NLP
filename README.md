@@ -180,3 +180,26 @@
 |    Texthero文本数据高效处理包    |   包括预处理、关键词提取、命名实体识别、向量空间分析、文本可视化等     |  [github](https://github.com/jbesomi/texthero)   |
 |    nlpgnn图神经网络自然语言处理工具箱    |        |  [github](https://github.com/kyzhouhzau/NLPGNN)   |
 |    Macadam   |  以Tensorflow(Keras)和bert4keras为基础，专注于文本分类、序列标注和关系抽取的自然语言处理工具包     |    [github](https://github.com/yongzhuo/Macadam) |
+
+<!-- 
+| 资源名（Name）      | 描述（Description） | 链接     |
+| :---        |    :---  |          :--- |
+|       |        |    |
+|       |        |    |
+|       |        |    |
+|       |        |    |
+|       |        |    |
+|       |        |    |
+|       |        |    |
+|       |        |    |
+|       |        |    |
+|       |        |    |
+|       |        |    |
+|       |        |    |
+|       |        |    |
+|       |        |    |
+|       |        |    |
+|       |        |    | -->
+
+
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=fighting41love&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
