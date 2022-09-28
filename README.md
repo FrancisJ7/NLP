@@ -161,7 +161,6 @@
 |   jieba    |        |  [jieba](https://github.com/fxsjy/jieba)  |
 |  hanlp     |        |   [hanlp](https://github.com/hankcs/pyhanlp) |
 |    nlp4han    |  中文自然语言处理工具集(断句/分词/词性标注/组块/句法分析/语义分析/NER/N元语法/HMM/代词消解/情感分析/拼写检    |   [github](https://github.com/kidden/nlp4han)  |
-
 |   基于Pytorch的Bert应用    |    包括命名实体识别、情感分析、文本分类以及文本相似度等    |  [github](https://github.com/rsanshierli/EasyBert)   |
 |    nlp4han中文自然语言处理工具集    |   断句/分词/词性标注/组块/句法分析/语义分析/NER/N元语法/HMM/代词消解/情感分析/拼写检查     |   [github](https://github.com/kidden/nlp4han)  |
 |    一些关于自然语言的基本模型    |        |  [github](https://github.com/lpty/nlp_base)   |
